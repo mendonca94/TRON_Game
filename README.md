@@ -1,5 +1,4 @@
-# TRON_Game
-Project TRON Game
+# TRON Game
 
 Discipline: Introduction to computer architecture
 
