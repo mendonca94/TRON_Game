@@ -1,5 +1,7 @@
 # TRON Game
 
+College: Instituto Superior Técnico
+
 Discipline: Introduction to computer architecture
 
 Programming Language: ASSEMBLY
